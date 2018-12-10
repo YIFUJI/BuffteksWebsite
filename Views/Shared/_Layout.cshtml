@@ -3,7 +3,11 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - BuffteksWebsite</title>
+    <title>@ViewData["Title"] CIDM3312FP</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
     <environment include="Development">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -17,8 +21,17 @@
               asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
         <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
     </environment>
+
+    <link href="wwwroot/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
 </head>
-<body>
+<body style="background-color:white">
+    <div class="jumbotron text-center" style="background-color:black" style="margin-bottom:0">
+        <h1 style="color:white"> Welcome to Buffteks~~!</h1>
+    </div>
+
+
+
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -39,6 +52,14 @@
                     <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
                 </ul>
+
+                <form class = "form-line">
+                    <input class = "form-control mr-sm-2" type = "searching" placeholder="Searching" aria-label="Searching" >
+                    <button class = "btn btn-light my-sm-0" type = "submit">
+                        Search
+                    </button>
+                </form>
+
             </div>
         </div>
     </nav>

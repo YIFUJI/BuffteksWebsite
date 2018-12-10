@@ -67,7 +67,7 @@ using BuffteksWebsite.Models;
             WriteLiteral("\n<h2>Clients</h2>\n\n<p>\n    ");
             EndContext();
             BeginContext(116, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad9452ff65754ae29bddf9e025a28a43", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a7f1f079acd14721beea2a3cef113752", async() => {
                 BeginContext(139, 11, true);
                 WriteLiteral("Add New One");
                 EndContext();
@@ -197,7 +197,7 @@ using BuffteksWebsite.Models;
             WriteLiteral("\n            </td>\n            <td>\n                ");
             EndContext();
             BeginContext(1366, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "98c3970419fb4bd9ac6635292fb8db13", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "150606003c624691b595a638d5d1e096", async() => {
                 BeginContext(1435, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -233,7 +233,7 @@ using BuffteksWebsite.Models;
             WriteLiteral(" \n                ");
             EndContext();
             BeginContext(1461, 83, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "79a16ed28e194bd4b6208f0f87147905", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be214fe591564293984f52fa74758db8", async() => {
                 BeginContext(1533, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -269,7 +269,7 @@ using BuffteksWebsite.Models;
             WriteLiteral(" \n                ");
             EndContext();
             BeginContext(1562, 81, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2863ce558a544c9c88e102b10eca01f8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb0982b7c18e49de9a9095703d1f0125", async() => {
                 BeginContext(1633, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
