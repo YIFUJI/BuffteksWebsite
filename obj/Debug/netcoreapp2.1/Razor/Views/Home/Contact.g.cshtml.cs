@@ -62,7 +62,7 @@ using BuffteksWebsite.Models;
             WriteLiteral("\n\n<address>\n    One Microsoft Way<br />\n    Redmond, WA 98052-6399<br />\n    <abbr title=\"Phone\">P:</abbr>\n    425.555.0100\n</address>\n\n    <div class=\"p-3 mb-2 bg-secondary text-white\">\n        ");
             EndContext();
             BeginContext(235, 71, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "24b6f03ab0584ed791dae433d2454fdd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b209798f0a794c1ea6c72d64dd818122", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

@@ -83,7 +83,7 @@ using BuffteksWebsite.Models;
         ");
             EndContext();
             BeginContext(654, 72, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4bada69bb7ca40f483f06d9076c84a26", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "557a05f0825348dd8c69227a06a918b6", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -139,7 +139,7 @@ using BuffteksWebsite.Models;
             WriteLiteral("am erat volutpat.</p>\n      \n    </div>\n  </div>\n</div>\n\n <br>\n \n  <div class=\"jumbotron text-center\" style=\"margin-bottom:0\">\n    <div class=\"p-3 mb-2 bg-secondary text-white\">\n      ");
             EndContext();
             BeginContext(2958, 112, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "899394e6422e4a428caf41fc63d5724c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "06abd87df6f64f8c8648d583a885a852", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
